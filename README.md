@@ -1,2 +1,2 @@
 # ScreenDimmer
- This will act as a bightness control for your monitor
+ This will act as a brightness control for your monitor which does not support brightness control.
